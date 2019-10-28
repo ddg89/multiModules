@@ -1,0 +1,30 @@
+Manifest-Version: 1.0
+Class-Path: APP-INF/lib/spring-boot-starter-2.1.6.RELEASE.jar APP-INF/
+ lib/spring-boot-2.1.6.RELEASE.jar APP-INF/lib/spring-context-5.1.8.RE
+ LEASE.jar APP-INF/lib/spring-aop-5.1.8.RELEASE.jar APP-INF/lib/spring
+ -beans-5.1.8.RELEASE.jar APP-INF/lib/spring-expression-5.1.8.RELEASE.
+ jar APP-INF/lib/spring-boot-autoconfigure-2.1.6.RELEASE.jar APP-INF/l
+ ib/spring-boot-starter-logging-2.1.6.RELEASE.jar APP-INF/lib/logback-
+ classic-1.2.3.jar APP-INF/lib/logback-core-1.2.3.jar APP-INF/lib/slf4
+ j-api-1.7.25.jar APP-INF/lib/log4j-to-slf4j-2.11.2.jar APP-INF/lib/lo
+ g4j-api-2.11.2.jar APP-INF/lib/jul-to-slf4j-1.7.26.jar APP-INF/lib/ja
+ vax.annotation-api-1.3.2.jar APP-INF/lib/spring-core-5.1.8.RELEASE.ja
+ r APP-INF/lib/spring-jcl-5.1.8.RELEASE.jar APP-INF/lib/snakeyaml-1.23
+ .jar lib/it.ddg-test-ddg-multi-modules-library-1.0-SNAPSHOT.jar lib/o
+ rg.springframework.boot-spring-boot-starter-2.1.6.RELEASE.jar lib/org
+ .springframework.boot-spring-boot-2.1.6.RELEASE.jar lib/org.springfra
+ mework-spring-context-5.1.8.RELEASE.jar lib/org.springframework-sprin
+ g-aop-5.1.8.RELEASE.jar lib/org.springframework-spring-beans-5.1.8.RE
+ LEASE.jar lib/org.springframework-spring-expression-5.1.8.RELEASE.jar
+  lib/org.springframework.boot-spring-boot-autoconfigure-2.1.6.RELEASE
+ .jar lib/org.springframework.boot-spring-boot-starter-logging-2.1.6.R
+ ELEASE.jar lib/ch.qos.logback-logback-classic-1.2.3.jar lib/ch.qos.lo
+ gback-logback-core-1.2.3.jar lib/org.slf4j-slf4j-api-1.7.25.jar lib/o
+ rg.apache.logging.log4j-log4j-to-slf4j-2.11.2.jar lib/org.apache.logg
+ ing.log4j-log4j-api-2.11.2.jar lib/org.slf4j-jul-to-slf4j-1.7.26.jar 
+ lib/javax.annotation-javax.annotation-api-1.3.2.jar lib/org.springfra
+ mework-spring-core-5.1.8.RELEASE.jar lib/org.springframework-spring-j
+ cl-5.1.8.RELEASE.jar lib/org.yaml-snakeyaml-1.23.jar
+Build-Jdk-Spec: 1.8
+Created-By: Maven Archiver 3.4.0
+
